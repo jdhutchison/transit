@@ -1,0 +1,16 @@
+{
+  "Logfile": "/tmp/transit.log",
+  "Paths": [
+    {
+      "Label": "Lygon St. to City",
+      "Direction": "CITY",
+      "Type": "TRAM",
+      "Routes": [1, 6],
+      "Stops": [
+        {
+          "Label": "Brunswick Road"
+        }
+      ]
+    }
+  ]
+}
